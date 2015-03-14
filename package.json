@@ -1,6 +1,6 @@
 {
   "name": "componizer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Code organizer for build web components.",
   "main": "index.js",
   "scripts": {
