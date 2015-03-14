@@ -1,0 +1,17 @@
+{
+  "name": "componizer",
+  "version": "0.0.1",
+  "description": "Code organizer for build web components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "componizer": "./bin/componizer.js"
+  },
+  "author": "Tingzhao Yu",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.7.1"
+  }
+}
