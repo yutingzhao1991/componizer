@@ -1,6 +1,6 @@
 {
   "name": "componizer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Code organizer for build web components.",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "bin": {
     "componizer": "./bin/componizer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/yutingzhao1991/componizer.git"
   },
   "author": "Tingzhao Yu",
   "license": "ISC",

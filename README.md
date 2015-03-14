@@ -15,6 +15,11 @@ Installation
 npm install componizer -g
 ```
 
+Demo
+---
+Download the code and open `demo/app.html` you will get a simple demo.
+
+
 5 Step to build your own component with componizer
 ---
 
@@ -82,7 +87,7 @@ demoCoponent.render('demo')
 **5 Browserify**
 
 ```shell
-browerify app.js -o app.build.js
+browserify app.js -o app.build.js
 ```
 
 Then open app.html you will get the demo.
